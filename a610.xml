@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170725-a610-Official.zip/download</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170801-a610-Official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
