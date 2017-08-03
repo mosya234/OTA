@@ -1,11 +1,11 @@
 #!/bin/bash
 device=$1
-cd ~/rr/ota/akhil
+cd ~/BLADE/ota
 oldzip=$(grep "<Filename>RR-N" $device.xml  | sed -e 's|</\?Filename>||g')
 newzip=$2
 sed -i "s/$oldzip/$newzip/g" $device.xml
 cd -
-cd ~/rr/ota
+cd ~/BLADE/ota
 echo "OTA Update for RR $device $(date +%Y%m%d) Build" > /tmp/rrota
 git commit -as -F /tmp/rrota
 git pull --no-edit origin master;
