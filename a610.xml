@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <a610>
-            <Filename>RR-N-v5.8.3-20170803-a610-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170804-a610-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170803-a610-Official.zip/download</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170804-a610-Official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
