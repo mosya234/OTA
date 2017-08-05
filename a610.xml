@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Загрузки"
-                description="Загрузка последних сборок">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat</RomUrl>
+                description="Загрузка последних сборок">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
