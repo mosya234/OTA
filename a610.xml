@@ -10,15 +10,15 @@
             <RomUrl
                 id="rom"
                 title="Архив прошивок RR-OS"
-                description="Перейти на сайт архива прошивок RR-OS">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</RomUrl>
+                description="Перейти на сайт прошивок RR-OS">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
                 description="Просмотреть последние изменения в прошивке">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
-            	title="Gapps"
-            	description="Загрузка Open GApps">http://opengapps.org/</SlimGappsUrl>
+            	title="Cервисы Google Apps"
+            	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
 	</a610>
     </Stable>
 </SlimOTA>
