@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <a610>
-            <Filename>RR-N-v5.8.3-20170725-a610-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170806-a610-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Загрузки"
-                description="Загрузка последних сборок ">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat</RomUrl>
+                description="Загрузка последних сборок">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
@@ -15,6 +15,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Загрузка последних Open GApps">http://opengapps.org/</SlimGappsUrl>
-        <a610>
+	</a610>
     </Stable>
 </SlimOTA>
