@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
-                description="Просмотреть последние изменение в прошивке">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="Просмотреть последние изменения в прошивке">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
