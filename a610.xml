@@ -6,15 +6,15 @@
             <RomUrl
                 id="rom"
                 title="Загрузки"
-                description="Загрузка последних сборок">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</RomUrl>
+                description="Архив последних версий прошивок">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
-                description="Просмотр изменений">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="Просмотреть последние изменение в прошивке">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
-            	description="Загрузка последних Open GApps">http://opengapps.org/</SlimGappsUrl>
+            	description="Загрузка Open GApps">http://opengapps.org/</SlimGappsUrl>
 	</a610>
     </Stable>
 </SlimOTA>
