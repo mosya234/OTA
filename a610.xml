@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Загрузки"
-                description="Скачать последние ">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat</RomUrl>
+                description="Загрузка последних сборок ">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
@@ -14,7 +14,11 @@
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
-            	description="Скачать последние Open GApps">http://opengapps.org/</SlimGappsUrl>
+            	description="Загрузка последних Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <4pdaUrl
+            	id="4pda"
+            	title="Горячая линия"
+            	description="Связаться с разработчиком">http://4pda.ru/forum/index.php?act=qms&mid=2489457/</4pdaUrl>
 	</a610>
     </Stable>
 </SlimOTA>
