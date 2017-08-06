@@ -3,10 +3,10 @@
     <Stable>
         <a610>
             <Filename>RR-N-v5.8.3-20170806-a610-Official.zip</Filename>
-            <RomUrl
-            	id="rom"
+            <LatestBuildUrl
+            	id="latestbuild"
             	title="Последняя версия"
-                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170806-a610-Official.zip/download</RomUrl>
+                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170806-a610-Official.zip/download</LatestBuildUrl>
             <BuildUrl
                 id="build"
                 title="Архив прошивок RR-OS"
