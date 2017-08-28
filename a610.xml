@@ -19,6 +19,6 @@
             	id="gapps"
             	title="Cервисы Google Apps"
             	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
-        <a610>
+	</a610>
     </Stable>
 </SlimOTA>
