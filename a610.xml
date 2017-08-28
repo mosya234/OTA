@@ -19,10 +19,10 @@
             	id="gapps"
             	title="Cервисы Google Apps"
             	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Visit RR I9100 Thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-resurrection-remix-t3507366</XDAUrl>
+            <4PDAUrl
+                id="4pda"
+                title="Тема на 4PDA"
+                description="Посетить сайт 4PDA">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-resurrection-remix-t3507366</4PDAUrl>
 		</a610>
     </Stable>
 </SlimOTA>
