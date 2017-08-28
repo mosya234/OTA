@@ -6,7 +6,7 @@
             <LatestBuildUrl
             	id="latestbuild"
             	title="Последняя версия"
-                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170806-a610-Official.zip</LatestBuildUrl>
+                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170806-a610-Official.zip/download</LatestBuildUrl>
             <BuildUrl
                 id="build"
                 title="Архив прошивок RR-OS"
@@ -19,6 +19,6 @@
             	id="gapps"
             	title="Cервисы Google Apps"
             	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
-        <a610>
+        </a610>
     </Stable>
 </SlimOTA>
