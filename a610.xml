@@ -19,10 +19,6 @@
             	id="gapps"
             	title="Cервисы Google Apps"
             	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Visit RR I9100 Thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-resurrection-remix-t3507366</XDAUrl>
 	</a610>
     </Stable>
 </SlimOTA>
