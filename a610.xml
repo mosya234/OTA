@@ -19,10 +19,10 @@
             	id="gapps"
             	title="Cервисы Google Apps"
             	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
-            <4pdaUrl
+            <SlimGappsUrl
             	id="4pda"
             	title="Тема на 4PDA"
-            	description="Посетить сайт 4PDA">http://4pda.ru/forum/index.php?showtopic=795852&st=2180#entry63351332/</4pdaUrl>
+            	description="Посетить сайт 4PDA">http://4pda.ru/forum/index.php?showtopic=795852&st=2180#entry63351332/</SlimGappsUrl>
 	</a610>
     </Stable>
 </SlimOTA>
