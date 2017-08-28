@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-	<Stable>
+    <Stable>
         <a610>
             <Filename>RR-N-v5.8.3-20170806-a610-Official.zip</Filename>
-            <RomUrl
-                id="latestbuild"
-                title="Последняя версия"
+            <LatestBuildUrl
+            	id="latestbuild"
+            	title="Последняя версия"
                 description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.3-20170806-a610-Official.zip/download</LatestBuildUrl>
-              <BuildUrl
-	       id="build"
-               title="Архив прошивок RR-OS"
-	       description="Перейти на сайт прошивок RR-OS">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</BuildUrl>
-	      <ChangelogUrl
+            <BuildUrl
+                id="build"
+                title="Архив прошивок RR-OS"
+                description="Перейти на сайт прошивок RR-OS">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/</BuildUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
                 description="Просмотреть последние изменения в прошивке">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-               <GappsUrl
-                id="gapps"
-                title="Cервисы Google Apps"
-                description="Перейти на сайт Open GApps">http://opengapps.org/</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="Тема на 4PDA"
-                description="Посетить сайт 4PDA">http://4pda.ru/forum/index.php?showtopic=795852&view=findpost&p=63351332</XDAUrl>
-		</a610>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Cервисы Google Apps"
+            	description="Перейти на сайт Open GApps">http://opengapps.org/</SlimGappsUrl>
+	</a610>
     </Stable>
 </SlimOTA>
