@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <a610>
-            <Filename>RR-N-v5.8.4-20170828-a610-Official.zip</Filename>
+            <Filename>RR-N-v5.8.5-20171012-a610-Official.zip</Filename>
             <LatestBuildUrl
             	id="latestbuild"
             	title="Последняя версия"
-                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.4-20170828-a610-Official.zip</LatestBuildUrl>
+                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix/files/a610/nougat/RR-N-v5.8.5-20171012-a610-Official.zip</LatestBuildUrl>
             <BuildUrl
                 id="build"
                 title="Архив прошивок RR-OS"
