@@ -6,7 +6,7 @@
             <LatestBuildUrl
             	id="latestbuild"
             	title="Последняя версия"
-                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix-oreo/files/a610/nougat//files/a610/nougat/RR-N-v5.8.5-20180323-a610-Official.zip</LatestBuildUrl>
+                description="Загрузка последней версии">https://sourceforge.net/projects/resurrectionremix-oreo/files/a610/nougat/RR-N-v5.8.5-20180323-a610-Official.zip/download</LatestBuildUrl>
             <BuildUrl
                 id="build"
                 title="Архив прошивок RR-OS"
